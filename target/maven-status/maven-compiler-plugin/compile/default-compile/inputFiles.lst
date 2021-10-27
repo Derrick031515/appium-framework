@@ -1,0 +1,9 @@
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/util/PropertiesReader.java
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/basepo/POStore.java
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/basetest/BaseTestCaseExcutor.java
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/basepo/POBaseData.java
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/constant/TestConstant.java
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/basetest/BaseTestCaseTearDown.java
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/basepage/BasePage.java
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/exception/BrowserNameException.java
+/Derrick/hogwarts/workspace/appium-framework/src/main/java/com/framework/basepo/POBasePage.java

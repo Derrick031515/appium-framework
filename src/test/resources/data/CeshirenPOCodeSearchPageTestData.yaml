@@ -1,0 +1,8 @@
+- data:
+  #编程模式
+    - get_first_title:
+        - num: "1"
+          param1: "equalTo"
+          param2: "上证指数"
+
+

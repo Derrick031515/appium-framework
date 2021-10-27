@@ -1,0 +1,174 @@
+2021-10-27 12:43:46.836 [main-52] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 12:44:07.804 [main-74] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 0 }条用例，测试用例开始统一断言
+2021-10-27 12:44:07.815 [main-76] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 12:45:55.197 [main-52] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 12:46:17.129 [main-112] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 12:46:17.129 [main-118] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 12:47:46.527 [main-74] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 12:47:46.533 [main-76] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 12:49:34.972 [main-52] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 12:50:11.872 [main-74] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 0 }条用例，测试用例开始统一断言
+2021-10-27 12:50:11.876 [main-76] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 12:52:49.536 [main-52] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 12:53:10.522 [main-112] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 12:53:10.523 [main-118] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 12:53:37.597 [main-74] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 12:53:37.602 [main-76] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 13:04:59.013 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 13:05:24.763 [main-62] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 13:05:39.880 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 13:06:00.989 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 13:06:00.990 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 13:06:28.057 [main-62] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 13:06:28.149 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 13:06:28.154 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 13:10:05.052 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 13:10:31.771 [main-63] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 13:10:41.875 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 0 }条用例，测试用例开始统一断言
+2021-10-27 13:10:41.878 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 13:13:59.417 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 13:14:20.898 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 13:14:20.899 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 13:14:50.776 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 13:14:50.779 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 13:14:50.779 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 13:14:50.780 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数 }
+2021-10-27 13:14:50.781 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 13:14:50.781 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 13:14:50.853 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 13:14:50.861 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 13:15:37.643 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 13:15:58.116 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 13:15:58.117 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 13:16:23.580 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 13:16:23.581 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 13:16:23.582 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 13:16:23.582 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数1 }
+2021-10-27 13:16:23.583 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 13:16:23.583 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 13:16:23.652 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 13:24:51.305 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 13:25:11.934 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 13:25:11.935 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 13:25:39.720 [main-61] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 13:25:39.830 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 13:25:39.836 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 13:28:15.623 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 13:28:42.663 [main-62] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 13:28:52.721 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 13:28:52.722 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 13:29:13.650 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 13:29:13.655 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 13:50:18.394 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 13:50:44.196 [main-71] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 13:50:54.254 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 13:50:54.255 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 13:51:19.838 [main-71] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 13:51:19.905 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 13:51:19.919 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 14:05:43.550 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 14:06:17.179 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 14:06:17.180 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 14:06:44.894 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 14:06:44.896 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 14:06:44.896 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 14:06:44.896 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数 }
+2021-10-27 14:06:44.897 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 14:06:44.898 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 14:06:44.961 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 14:06:44.971 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 14:07:32.811 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 14:07:46.265 [main-61] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 14:07:56.331 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 14:07:56.332 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 14:08:07.605 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 14:08:07.614 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 14:08:23.657 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 14:08:52.138 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 14:08:52.138 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 14:09:10.932 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 14:09:10.939 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 14:09:29.646 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 14:09:57.128 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 14:09:57.129 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 14:10:25.283 [main-61] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 14:10:25.407 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 14:10:25.412 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 14:10:52.706 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 14:11:20.682 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 14:11:20.683 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 14:11:51.214 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 14:11:51.215 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 14:11:51.216 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 14:11:51.216 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数 }
+2021-10-27 14:11:51.217 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 14:11:51.217 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 14:11:51.288 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 14:11:51.295 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 14:17:40.546 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 14:18:12.889 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 14:18:12.890 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 14:18:43.127 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 14:18:43.129 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 14:18:43.130 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 14:18:43.130 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数 }
+2021-10-27 14:18:43.131 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 14:18:43.131 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 14:18:43.198 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 14:18:43.205 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 14:21:02.288 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 14:21:34.385 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 14:21:34.390 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 14:22:02.792 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 14:22:02.793 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 14:22:02.794 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 14:22:02.794 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数 }
+2021-10-27 14:22:02.795 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 14:22:02.795 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 14:22:02.861 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 14:22:02.867 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 14:22:58.712 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 14:23:31.306 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 14:23:31.307 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 14:24:00.785 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 14:24:00.787 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 14:24:00.788 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 14:24:00.788 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数 }
+2021-10-27 14:24:00.789 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 14:24:00.789 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 14:24:00.863 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 14:24:00.871 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 15:47:28.547 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 15:48:00.619 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 15:48:00.620 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 15:48:30.169 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 15:48:30.172 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 15:48:30.172 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 15:48:30.173 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数 }
+2021-10-27 15:48:30.173 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 15:48:30.174 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 15:48:30.232 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 15:48:30.243 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 15:56:35.599 [main-42] INFO  com.wechat.pageobject.TestCaseTearDownTest.tearDown - 开始释放资源
+2021-10-27 15:56:35.602 [main-44] INFO  com.wechat.pageobject.TestCaseTearDownTest.tearDown - 释放资源结束
+2021-10-27 15:57:02.761 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 15:57:31.709 [main-61] INFO  com.framework.basepage.BasePage.<init> - Android驱动启动异常
+2021-10-27 15:57:41.768 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 15:57:41.769 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 15:58:03.906 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 15:58:03.912 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 15:58:35.435 [main-42] INFO  com.wechat.pageobject.TestCaseTearDownTest.tearDown - 开始释放资源
+2021-10-27 15:58:35.440 [main-44] INFO  com.wechat.pageobject.TestCaseTearDownTest.tearDown - 释放资源结束
+2021-10-27 15:59:23.515 [main-53] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.init - 项目模块{ CeshirenPOCodeSearchPageTest }测试用例开始执行
+2021-10-27 15:59:55.915 [main-113] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 当前用例测试执行方法为{ get_first_title }
+2021-10-27 15:59:55.916 [main-119] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.lambda$null$0 - 第{ 1 }条测试用例开始执行
+2021-10-27 16:00:24.925 [main-86] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$5 - 测试用例执行结果为{ 上证指数 }
+2021-10-27 16:00:24.927 [main-119] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 用例开始添加断言内容
+2021-10-27 16:00:24.928 [main-120] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 实际结果为{ 上证指数 }
+2021-10-27 16:00:24.928 [main-121] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 期望结果为{ 上证指数 }
+2021-10-27 16:00:24.929 [main-123] INFO  com.framework.basetest.BaseTestCaseExcutor.lambda$null$4 - 添加断言结束
+2021-10-27 16:00:24.930 [main-124] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.startMethod - 方法{ get_first_title }测试用例执行结束
+2021-10-27 16:00:25.003 [main-75] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 项目模块{ CeshirenPOCodeSearchPageTest }共执行{ 1 }条用例，测试用例开始统一断言
+2021-10-27 16:00:25.011 [main-77] INFO  com.wechat.pageobject.CeshirenPOCodeSearchPageTest.tearDown - 统一断言结束
+2021-10-27 16:00:54.313 [main-42] INFO  com.wechat.pageobject.TestCaseTearDownTest.tearDown - 开始释放资源
+2021-10-27 16:00:54.314 [main-44] INFO  com.wechat.pageobject.TestCaseTearDownTest.tearDown - 释放资源结束
