@@ -1,4 +1,4 @@
-package com.wechat.pageobject;
+package com.wechat.pageobject.testcase;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
