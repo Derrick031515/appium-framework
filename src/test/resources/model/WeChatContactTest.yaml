@@ -1,0 +1,92 @@
+name: search_name
+before_all: [ ]
+after_all: [ ]
+
+steps:
+  #编程模式
+  - testCase_addMember:
+      - search_name.new: com.wechat.pageobject.testcase.WeChatContactTest
+      - search_name.addMember:
+          - find: [ xpath, "//*[@text='通讯录']" ]
+          - click:
+          - find: [ xpath, "//*[@text='添加成员']" ]
+          - click:
+          - find: [ xpath, "//*[@text='手动输入添加']" ]
+          - click:
+          - find: [ id, "com.tencent.wework:id/ber" ]
+          - sendkeys: "${param1}"
+          - find: [ id, "com.tencent.wework:id/ber" ]
+          - sendkeys: "${param1}"
+          - find: [ id, "com.tencent.wework:id/gcr" ]
+          - sendkeys: "${param2}"
+          - find: [ id, "com.tencent.wework:id/alp" ]
+          - click:
+          - find: [ id, "com.tencent.wework:id/iwk" ]
+          - click:
+          - getassertstext: [ xpath, "//*[@text='${param3}']" ]
+          - asserts:
+              - actual: "添加通讯成员"
+              - matcher: "${param4}"
+              - expect: "${param5}"
+              - reason: '添加通讯成员成功！'
+  - testCase_searchMember:
+      - search_name.new: com.wechat.pageobject.testcase.WeChatContactTest
+      - search_name.searchMember:
+           - find: [ xpath, "//*[@text='通讯录']" ]
+           - click:
+           - find: [ id, "com.tencent.wework:id/ixj" ]
+           - click:
+           - find: [ xpath, "//*[@text='搜索']" ]
+           - sendkeys: "${param1}"
+           - click:
+           - getassertstext: [ xpath, "//*[@text='${param2}']" ]
+           - asserts:
+              - actual: "查询通讯成员"
+              - matcher: "${param3}"
+              - expect: "${param4}"
+              - reason: '查询通讯成员成功！'
+  - testCase_updateMember:
+      - search_name.new: com.wechat.pageobject.testcase.WeChatContactTest
+      - search_name.updateMember:
+           - find: [ xpath, "//*[@text='通讯录']" ]
+           - click:
+           - find: [ xpath, "//*[@text='${param1}']" ]
+           - click:
+           - find: [ xpath, "//*[@text='设置备注和描述']" ]
+           - click:
+           - find: [ id, "com.tencent.wework:id/bnv" ]
+           - sendkeys: "${param2}"
+           - find: [ xpath, "//*[@text='保存']" ]
+           - click:
+           - getassertstext: [ id, "com.tencent.wework:id/ic4" ]
+           - asserts:
+              - actual: "更新通讯成员"
+              - matcher: "${param3}"
+              - expect: "${param4}"
+              - reason: '更新通讯成员失败！'
+  - testCase_updateMember:
+      - search_name.new: com.wechat.pageobject.testcase.WeChatContactTest
+      - search_name.updateMember:
+           - find: [ xpath, "//*[@text='通讯录']" ]
+           - click:
+           - find: [ xpath, "//*[@text='${param1}']" ]
+           - click:
+           - find: [ id, "com.tencent.wework:id/ix5" ]
+           - click:
+           - find: [ xpath, "//*[@text='编辑成员']" ]
+           - click:
+           - find: [ xpath, "//*[@text='删除成员']" ]
+           - click:
+           - find: [ xpath, "//*[@text='确定']" ]
+           - click:
+           - find: [ xpath, "//*[@text='保存']" ]
+           - click:
+           - find: [ xpath, "//*[@text='搜索']" ]
+           - sendkeys: "${param2}"
+           - click:
+           - getassertstext: [ xpath, "//*[@text='${param3}']" ]
+           - asserts:
+              - actual: "删除通讯成员"
+              - matcher: "${param4}"
+              - expect: "${param5}"
+              - reason: '删除成员失败！'

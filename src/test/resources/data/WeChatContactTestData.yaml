@@ -1,0 +1,35 @@
+- data:
+  #编程模式
+    - addMember:
+        - num: "1"
+          param1: "陈龙"
+          param2: "15330206887"
+          param3: "陈龙"
+          param4: "equalTo"
+          param5: "结果包含断言字段：陈龙"
+    - searchMember:
+        - num: "1"
+          param1: "陈龙"
+          param2: "陈龙"
+          param3: "equalTo"
+          param4: "结果包含断言字段：陈龙"
+        - num: "2"
+          param1: "陈##龙"
+          param2: "无搜索结果"
+          param3: "equalTo"
+          param4: "结果包含断言字段：无搜索结果"
+    - updateMember:
+        - num: "1"
+          param1: "陈龙"
+          param2: "陈龙龙"
+          param3: "equalTo"
+          param4: "结果包含断言字段：陈龙龙"
+    - deleteMember:
+        - num: "1"
+          param1: "陈龙龙"
+          param2: "陈龙龙"
+          param3: "无搜索结果"
+          param4: "equalTo"
+          param5: "结果包含断言字段：无搜索结果"
+
+

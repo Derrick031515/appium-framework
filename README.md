@@ -20,22 +20,39 @@
       - **POStore**：封装保存所有的po， poName: POBasePage实例
     - basetest
       - **BaseTestCaseExcutor**：封装解析测试用例整体操作步骤，包括断言
-    - constant
-      - **TestConstant**：封装测试项目常量类
     - exception
-      - **BrowserNameException**：封装异常类
+      - **ExceptionHandler**：封装异常类
     - util
       - **PropertiesReader**：封装读取配置文件操作方法
   - resources
     - **config.properties**：项目基础配置信息
     - **log4j2.xml**：log4j2的配置文件、控制台输出和文件滚动输出
+
 - test
   - java
     - testcase
-      - **CeshirenPOCodeSearchPage**：项目业务模块
+      - **WeChatContactTest**：项目业务模块
   - resources
     - data
-      - **CeshirenPOCodeSearchPageData.yaml**：项目业务模块用例参数化数据
+      - **WeChatContactTestData.yaml**：项目业务模块用例参数化数据
     - model
-      - **CeshirenPOCodeSearchPage.yaml**：项目业务模块配置
+      - **WeChatContactTest.yaml**：项目业务模块配置
+  
 - **pom.xml**：Maven配置文件<a name="YoWRl"></a>
+
+  ## 三、企业微信项目开发示例
+
+  1、项目需求描述
+
+  针对企业微信通讯录模块完成通讯录成员增删改查测试
+
+  2、具体实现
+
+  （1）设计通讯录模块PO测试类，实现通讯录模块初始化、加载模块配置文件进行用例自动解析、生成并参数化形式执行、最后统一断言【src/test/java/com/wechat/pageobject/testcase/WeChatContactTest.java】
+
+  （2）设计通讯录模块配置，完成用例步骤设计【src/test/resources/model/WeChatContactTest.yaml】
+
+  （3）设计通讯录模块用例参数化配置【src/test/resources/data/WeChatContactTestData.yaml】
+
+  （4）执行命令，生成报告【 #mvn clean test -Dtest=WeChatContactTest】
+

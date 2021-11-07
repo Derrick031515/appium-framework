@@ -1,9 +1,0 @@
-com/framework/basepo/POStore.class
-com/framework/exception/BrowserNameException.class
-com/framework/basepo/POBaseData.class
-com/framework/basepo/POBasePage.class
-com/framework/constant/TestConstant.class
-com/framework/basetest/BaseTestCaseTearDown.class
-com/framework/basetest/BaseTestCaseExcutor.class
-com/framework/basepage/BasePage.class
-com/framework/util/PropertiesReader.class
